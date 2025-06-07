@@ -1,0 +1,26 @@
+{
+  "name": "react_notes",
+  "version": "1.0.0",
+  "description": "This is React Notes by Yesashwini Patil",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashaswipatil/react_notes.git"
+  },
+  "keywords": [],
+  "author": "Yesashwini Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashaswipatil/react_notes/issues"
+  },
+  "homepage": "https://github.com/yashaswipatil/react_notes#readme",
+  "devDependencies": {
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
