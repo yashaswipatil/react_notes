@@ -1,9 +1,9 @@
-**🔴 Emmet** : it is developer productivity tool built into most modern code editors(like vs code) that helps your write HTML , CSS , JSX faster using shortcuts called abbreviations
+_Emmet_ : it is developer productivity tool built into most modern code editors(like vs code) that helps your write HTML , CSS , JSX faster using shortcuts called abbreviations
 
-**🔴 Difference between library and framework** : In library , we can control the part of the code , you can call library functions whenever and wherever you need them but for framework , it controls the code and the entire floe of the app , it calls your code as a part of its built-in flow(inversion of control) 
+_Difference between library and framework_ : In library , we can control the part of the code , you can call library functions whenever and wherever you need them but for framework , it controls the code and the entire floe of the app , it calls your code as a part of its built-in flow(inversion of control) 
 
 
-**🔴 CDN and its uses**: Content delivery network is network of servers distributed globally to deliver web content(like Javascript libraries , images , videos etc) faster by reducing latency.
+_CDN and its uses_: Content delivery network is network of servers distributed globally to deliver web content(like Javascript libraries , images , videos etc) faster by reducing latency.
 1.faster content delivery
 2.reduced server load
 3.improved website performance
@@ -12,14 +12,14 @@
 6.High availability and reliability
 7.
 
-**🔴 Reason behind react is called as react**: because it efficiently reacts to changes in data with minimal DOM updates in user interfaces and updates UI accordingly.
+_Reason behind react is called as react_: because it efficiently reacts to changes in data with minimal DOM updates in user interfaces and updates UI accordingly.
 
-**🔴 cross-origin in script tag** : is a HTML attribute used in elements like <script> , <img> , <video> and other similar elements to control how cross-origin requests are handled -particularly in relation with 
+_cross-origin in script tag_ : is a HTML attribute used in elements like <script> , <img> , <video> and other similar elements to control how cross-origin requests are handled -particularly in relation with 
 -CORS (cross-origin resource sharing)
 -credentials(like authorization , headers , cookies)
 -security and browser behavior
 
-**🔴 Difference between React and ReactDOM** : 1.purpose of react: is a core library to build components , logic and purpose of ReactDOM : provides methods to render react components in the DOM.
+_Difference between React and ReactDOM_ : 1.purpose of react: is a core library to build components , logic and purpose of ReactDOM : provides methods to render react components in the DOM.
 2.use case of react :defines UI , components , hooks , state , prop etc and use case of ReactDOM : bridges react with the actual browser DOM.
 
 
