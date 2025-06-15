@@ -13,5 +13,5 @@ the options are:
 1.text/javascript
 2.application/json
 3.module- javascript modules to support import/export
-4.
+
 
